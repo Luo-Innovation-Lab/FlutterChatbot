@@ -6,7 +6,7 @@
 InstaAid is an AI-powered emergency assistance app designed to provide rapid, situation-specific guidance during emergencies, whether on the battlefield, at home, or in any high-stress environment.
 
 ## Features
--**Powered by LlamaIndex**
+- **Powered by LlamaIndex**
 - **Multimodal Input**: Supports text, voice, and image inputs to assess emergencies accurately.
 - **Real-Time Assistance**: Delivers instant, tailored guidance based on the specific emergency.
 - **RAG Integration**: Uses Retrieval-Augmented Generation to pull relevant steps from validated resources.
