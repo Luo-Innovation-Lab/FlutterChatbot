@@ -2,7 +2,7 @@
   
 # InstaAid: AI-Powered Emergency Health Assistant
 
-[<img src="logo-image-here" width="200">](#)
+[<img src="llm.jpg" width="200">](#)
 
 ### Powered by
 <p align="center">
