@@ -6,7 +6,7 @@
 
 ### Powered by
 <p align="center">
-  <img src="https://your-path-to-llamaindex-logo.png" width="300" style="margin-right: 20px"/>
+  <img src="nvidia.png" width="300" style="margin-right: 20px"/>
   <img src="https://your-path-to-nvidia-logo.png" width="300"/>
 </p>
 
@@ -36,7 +36,6 @@ InstaAid is a groundbreaking AI-driven health assistant chatbot designed to empo
 - **Core AI**: Google Gemini
 - **Vector Database**: LlamaIndex
 - **Frontend**: Flutter
-- **Cloud Infrastructure**: NVIDIA GPU-accelerated deployment
 
 ## 🏃‍♂️ Getting Started
 
