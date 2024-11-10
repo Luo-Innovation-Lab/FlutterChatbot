@@ -7,7 +7,7 @@
 ### Powered by
 <p align="center">
   <img src="nvidia.png" width="300" style="margin-right: 20px"/>
-  <img src="https://your-path-to-nvidia-logo.png" width="300"/>
+  <img src="images.png" width="300"/>
 </p>
 
 *An intelligent healthcare companion for emergency guidance and support*
